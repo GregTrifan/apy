@@ -559,7 +559,7 @@
         "symbol": "cUSDC",
         "decimals": 8,
         "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "contract": "CErc20",
+        "contract": "CErc20Delegator",
         "initial_exchange_rate_mantissa": "200000000000000",
         "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563"
       },
